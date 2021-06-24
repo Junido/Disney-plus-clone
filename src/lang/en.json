@@ -1,0 +1,5 @@
+{
+    "calculateur.alertInput": "Complete the required fields !",
+    "calculateur.intro": "Votre identifiant commence par “INT” : il est présent dans vos mails concernant l'espace sociétaire",
+    "calculateur.intro2": "Si votre Identifiant ne commence pas par INT, {introurl} pour vous identifier"
+}  
